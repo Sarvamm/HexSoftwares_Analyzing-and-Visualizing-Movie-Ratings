@@ -5,9 +5,3 @@ Dataset
 The dataset used here is the IMDb dataset, which includes information about movies, their ratings, genres, directors, and more.
 You can find the original dataset on Kaggle: IMDb Dataset
 link: https://www.kaggle.com/datasets/PromptCloudHQ/imdb-data
-Contents
-Data Exploration: Dive into the dataset to understand its structure, available columns, and basic statistics.
-Movie Ratings Analysis: Explore the distribution of movie ratings, identify outliers, and visualize trends.
-Genre Insights: Investigate which genres are most popular and how they correlate with ratings.
-Director Influence: Analyze the impact of different directors on movie ratings.
-Visualizations: Create visual plots (scatter plots, histograms, etc.) to enhance your understanding of the data.
